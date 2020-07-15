@@ -1,2 +1,2 @@
 # OPPTI
-a mobile app for internship with Flutter
+an android mobile app for internship with Kotlin
